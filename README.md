@@ -4,7 +4,7 @@
 
 #SERVER-SIDE (Laravel 10)
 
-**2.  Go to the laravel-10-api **
+**2.  Go to the laravel-10-api**
       cd laravel-10-api
 **3.  Generate key App**
       php artisan key:generate
