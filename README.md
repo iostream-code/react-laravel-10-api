@@ -2,7 +2,7 @@
 
 **1.  Clone Repository**
 
-      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+      git clone https://github.com/iostream-code/react-laravel-10-api.git
 
 #SERVER-SIDE (Laravel 10)
 
