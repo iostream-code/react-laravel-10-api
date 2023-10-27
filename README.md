@@ -2,6 +2,8 @@
 
 **1.  Clone Repository**
 
+      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+
 #SERVER-SIDE (Laravel 10)
 
 **2.  Go to the laravel-10-api**
