@@ -63,7 +63,7 @@ export default function PostEdit() {
         formData.append('_method', 'PUT')
 
         //send data with API
-        await api.post(`/api/posts/${id}`, formData)
+        await api.post(`/api/post/${id}`, formData)
             .then(() => {
 
                 //redirect to posts index
